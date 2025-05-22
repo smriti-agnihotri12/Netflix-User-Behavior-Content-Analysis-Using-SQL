@@ -1,2 +1,3 @@
-# Netflix-User-Behavior-Content-Analysis-Using-SQL
-SQL project analyzing Netflix user behavior, engagement, and content trends
+# Netflix-Project using MYSQL Workbench
+This project explores key trends in Netflix content strategy, user behavior, and platform performance using data visualizations and segment analysis.
+
